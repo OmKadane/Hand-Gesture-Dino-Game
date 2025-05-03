@@ -31,12 +31,27 @@ pip install opencv-python cvzone pyautogui
 
 ▶️ How to Run
 1. Clone the repo:
-```bash
 https://github.com/OmKadane/Hand-Gesture-Dino-Game.git
 cd Hand-Gesture-Dino-Game
 
-2. Run the controller
-```bash
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the controller:
 python dino_gesture_controller.py
 
 Note: Make sure keyboard_control.py is in the same directory.
+
+## 🚀 Future Scope/Ideas
+✅ ✌️ 2-Finger Gesture → Duck
+✅ 🎵 Control music player with gestures
+✅ 🖥️ Gesture-based PowerPoint Controller
+✅ 🤖 Full AI gesture classification integration
+
+## 👨‍💻 Author
+Om - Python Programmer & Developer
+## 📝 Linkedin
+(www.linkedin.com/in/om-kadane-1429b82b3)
+
+## 📜 License
+This project is open-source and free to use under the MIT License.
