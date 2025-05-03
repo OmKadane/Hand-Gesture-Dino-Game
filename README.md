@@ -28,3 +28,14 @@ Real-time detection with high accuracy and responsive key simulation.
 
 ```bash
 pip install opencv-python cvzone pyautogui
+
+▶️ How to Run
+1. Clone the repo:
+```bash
+
+
+2. Run the controller
+```bash
+python dino_gesture_controller.py
+
+Note: Make sure keyboard_control.py is in the same directory.
