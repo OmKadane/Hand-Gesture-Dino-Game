@@ -41,17 +41,3 @@ pip install -r requirements.txt
 python dino_gesture_controller.py
 
 Note: Make sure keyboard_control.py is in the same directory.
-
-## 🚀 Future Scope/Ideas
-✅ ✌️ 2-Finger Gesture → Duck
-✅ 🎵 Control music player with gestures
-✅ 🖥️ Gesture-based PowerPoint Controller
-✅ 🤖 Full AI gesture classification integration
-
-## 👨‍💻 Author
-Om - Python Programmer & Developer
-## 📝 Linkedin
-(www.linkedin.com/in/om-kadane-1429b82b3)
-
-## 📜 License
-This project is open-source and free to use under the MIT License.
