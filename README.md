@@ -32,7 +32,8 @@ pip install opencv-python cvzone pyautogui
 ▶️ How to Run
 1. Clone the repo:
 ```bash
-
+https://github.com/OmKadane/Hand-Gesture-Dino-Game.git
+cd Hand-Gesture-Dino-Game
 
 2. Run the controller
 ```bash
